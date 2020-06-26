@@ -9,3 +9,5 @@ abc
 * don't care
 * at all
 
+> This character doesn't talk.
+> Ever.
